@@ -216,7 +216,6 @@ The following example is taken from the CoNLL-2003 test set:
 > But China saw their luck desert them in the second match of the group, crashing to a surprise 2-0 defeat to newcomers Uzbekistan.
 
 ### Gold Entities
-
 - `China → LOC`
 - `Uzbekistan → LOC`
 
